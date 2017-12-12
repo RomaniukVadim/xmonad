@@ -1,0 +1,14 @@
+exec /home/reverse_tcp/.screenlayout/layout2_monitor.sh &
+nm-applet &
+pnmixer &
+dunst &
+redshift &
+dropbox start &
+#nitrogen --restore &
+compton -fGcCb -o 0.38 -O 200 -O 200 -t 0 -D4 &
+xsetroot -cursor_name left_ptr &
+setxkbmap -option "ctrl:nocaps" &
+synclient TapButton1=1 &
+exec /home/reverse_tcp/betterlockscreen/lock.sh -u /home/reverse_tcp/Pictures/wallhaven-593828.png &
+exec /home/reverse_tcp/betterlockscreen/lock.sh -w &
+exec ck-launch-session dbus-launch --sh-syntax --exit-with-session xmonad

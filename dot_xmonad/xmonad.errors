@@ -1,0 +1,28 @@
+
+xmonad.hs:56:12: warning: [-Wdeprecations]
+    In the use of ‘defaultConfig’
+    (imported from XMonad, but defined in XMonad.Config):
+    Deprecated: "Use def (from Data.Default, and re-exported by XMonad and XMonad.Config) instead."
+
+xmonad.hs:57:17: warning: [-Wtabs]
+    Tab character found here, and in 34 further locations.
+    Please use spaces instead.
+
+xmonad.hs:74:15: warning: [-Wdeprecations]
+    In the use of ‘defaultTheme’
+    (imported from XMonad.Layout.TabBarDecoration, but defined in XMonad.Layout.Decoration):
+    Deprecated: "Use def (from Data.Default, and re-exported by XMonad.Layout.Decoration) instead."
+
+xmonad.hs:122:44: warning: [-Wdeprecations]
+    In the use of ‘defaultGSConfig’
+    (imported from XMonad.Actions.GridSelect):
+    Deprecated: "Use def (from Data.Default, and re-exported from XMonad.Actions.GridSelect) instead."
+
+xmonad.hs:123:45: warning: [-Wdeprecations]
+    In the use of ‘defaultGSConfig’
+    (imported from XMonad.Actions.GridSelect):
+    Deprecated: "Use def (from Data.Default, and re-exported from XMonad.Actions.GridSelect) instead."
+
+xmonad.hs:138:39: warning: [-Wdeprecations]
+    In the use of ‘defaultPP’ (imported from XMonad.Hooks.DynamicLog):
+    Deprecated: "Use def (from Data.Default, and re-exported by XMonad.Hooks.DynamicLog) instead."
