@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   id="svg3025"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="bluetooth-active.svg">
+  <defs
+     id="defs3027" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="23.880618"
+     inkscape:cx="3.7954744"
+     inkscape:cy="12.167459"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3030">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1030.3622)">
+    <path
+       inkscape:connector-curvature="0"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.9;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 10.008657,1033.3614 a 0.12742247,0.1042772 0 0 0 -0.1234273,0.1042 l 0,6.085 -4.1408156,-2.5351 a 0.12742247,0.1042772 0 0 0 -0.165233,0.011 l -1.2084023,0.9841 a 0.12742247,0.1042772 0 0 0 0.011908,0.1562 l 5.024721,3.1965 -4.8176778,3.1574 a 0.12742247,0.1042772 0 0 0 -0.011908,0.1547 l 1.3019669,1.0884 a 0.12742247,0.1042772 0 0 0 0.1712045,0.01 l 3.8342363,-2.5383 0,6.023 a 0.12742247,0.1042772 0 0 0 0.2050493,0.083 l 7.525137,-4.5959 a 0.12742247,0.1042772 0 0 0 0.004,-0.1646 l -4.863467,-3.1655 4.704207,-3.1215 a 0.12742247,0.1042772 0 0 0 -0.002,-0.1628 l -7.365877,-4.7441 a 0.12742247,0.1042772 0 0 0 -0.08361,-0.022 z m 1.998741,3.167 2.526295,1.7334 -2.526295,1.5658 0,-3.2992 z m 0,6.5362 2.605926,1.5428 -2.607917,1.3947 c 0,-1.0573 0.002,-1.9008 0.002,-2.9375 z"
+       id="path5178" />
+  </g>
+</svg>

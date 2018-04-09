@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   id="svg3025"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="user.svg">
+  <defs
+     id="defs3027" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="23.880924"
+     inkscape:cx="2.2432586"
+     inkscape:cy="12"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3030">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1030.3622)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path5013"
+       d="m 10.961557,1031.8622 c -2.9194368,0 -5.2867513,2.5151 -5.2867513,5.6188 0,3.1037 2.3673145,5.6189 5.2867513,5.6189 2.919435,0 5.28675,-2.5152 5.28675,-5.6189 0,-3.1037 -2.367315,-5.6188 -5.28675,-5.6188 z m 4.47905,12.3417 c -0.934838,1.5839 -2.590298,2.6356 -4.47905,2.6356 -1.869288,0 -3.5134718,-1.0297 -4.4533448,-2.5863 -2.511078,0.5492 -4.848021,2.1283 -4.3138455,6.609 l 8.8112413,0 8.81125,0 c 0.489036,-4.5778 -1.832234,-6.1397 -4.376251,-6.6583 z"
+       style="opacity:0.9;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.245924;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3794-0-7);enable-background:accumulate" />
+  </g>
+</svg>

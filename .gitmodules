@@ -1,0 +1,3 @@
+[submodule ".icons/la-capitaine-icon-theme"]
+	path = .icons/la-capitaine-icon-theme
+	url = git@github.com:keeferrourke/la-capitaine-icon-theme.git
