@@ -1,0 +1,27 @@
+# Statusbar
+hardstatus off
+hardstatus alwayslastline
+# hardstatus string "%{+b wk} %-w%{+b wk} %n %t %{-}%+w %41=%H @ %l %-= %= %D, %c:%s "
+hardstatus string "%{+b wk} %-w%{+b wB} %n %t %{-}%+w %41=%H @ %l %-= %= %D, %c:%s "
+
+# Escape key
+escape \\q
+
+# To clear the screen after closing some programs
+altscreen on
+
+# Windows opening by default
+screen -t "BASH" 1 
+screen -t "MPD" 2 ncmpcpp --config=~/.config/mpd/mpd.conf
+screen -t "IRC" 3 weechat
+screen -t "HTOP" 4 htop
+
+# keybinds
+bindkey -k k; quit
+
+# COLORS! and some usefull terminfo
+term screen-256color
+terminfo rxvt-unicode 'Co#256:AB=\E[48;5;%dm:AF=\E[38;5;%dm'
+
+# Do not show startup message
+startup_message off
