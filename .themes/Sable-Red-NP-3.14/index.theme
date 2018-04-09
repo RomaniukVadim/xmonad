@@ -1,0 +1,16 @@
+[X-GNOME-Metatheme]
+Name=Sable-Red-NP-3.14
+Type=X-GNOME-Metatheme
+Comment=A black theme
+Encoding=UTF-8
+GtkTheme=Sable-Red-NP-3.14
+MetacityTheme=Sable-Red-NP-3.14
+IconTheme=mate
+CursorTheme=mate
+CursorSize=24
+
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Sable-Red-NP-3.14
+Comment=A black theme
+Encoding=UTF-8

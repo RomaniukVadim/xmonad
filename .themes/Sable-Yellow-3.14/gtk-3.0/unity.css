@@ -1,0 +1,123 @@
+/* Decorations */
+
+UnityDecoration {
+    -UnityDecoration-extents: 28px 0 0 0;
+    -UnityDecoration-input-extents: 10px;
+
+    -UnityDecoration-shadow-offset-x: 1px;
+    -UnityDecoration-shadow-offset-y: 5px;
+    -UnityDecoration-active-shadow-color: rgba (0, 0, 0, 0.75);
+    -UnityDecoration-active-shadow-radius: 30px;
+    -UnityDecoration-inactive-shadow-color: rgba (0, 0, 0, 0.3);
+    -UnityDecoration-inactive-shadow-radius: 25px;
+
+    -UnityDecoration-glow-size: 10px;
+    -UnityDecoration-glow-color: rgb (221, 72, 20);
+
+    -UnityDecoration-title-indent: 10px;
+    -UnityDecoration-title-fade: 35px;
+    -UnityDecoration-title-alignment: 0.0;
+}
+
+UnityDecoration.top {
+    border: 1px solid rgba (9,7,5, 0.03); /* shade (@dark_bg_color, 1.04) - shade (@dark_bg_color, 1.5) */
+    border-bottom-width: 0;
+    border-radius: 0;
+    padding: 1px 6px 0 6px;
+
+    box-shadow: inset 0 1px alpha(white, 0.09),
+				inset 0 2px alpha(white, 0.03),
+				inset 0 3px alpha(white, 0.01);
+
+    background-color: transparent;
+    background-clip: border-box;
+    background-image: url("assets/subtle_carbon.png");
+
+    color: @theme_fg_color;
+    text-shadow:  0 1px #000;
+}
+
+UnityDecoration.top:backdrop {
+    border: 1px solid rgba (9,7,5, 0.03); /* @dark_bg_color - shade (#474642, 0.92) */;
+    border-bottom-width: 0;
+    background-color: transparent;
+    background-clip: border-box;
+    background-image: url("assets/subtle_carbon.png");
+    box-shadow: inset 0 1px alpha(white, 0.06);
+    color: @theme_unfocused_fg_color;
+}
+
+UnityDecoration.left,
+UnityDecoration.right {
+    background-color: shade (@theme_bg_color, 0.7);
+    background-size: 1px 70px;
+    background-repeat: repeat-x;
+
+    /* start color: mix of the top border color and bg-image gradient end */
+    background-image: -gtk-gradient (linear, left top, left bottom,
+                                     color-stop (0, @theme_bg_color),
+                                     color-stop (0.5, @theme_bg_color),
+                                     color-stop (1, shade (@theme_bg_color, 0.7)));
+}
+
+UnityDecoration.left:backdrop,
+UnityDecoration.right:backdrop {
+    /* start color: mix of the top border color and bg-image gradient end */
+    background-image: -gtk-gradient (linear, left top, left bottom,
+                                     color-stop (0, @theme_bg_color),
+                                     color-stop (0.5, @theme_bg_color),
+                                     color-stop (1, shade (@theme_bg_color, 0.7)));
+}
+
+UnityDecoration.bottom {
+    background-image: none;
+    background-color: shade (@theme_bg_color, 0.7);
+}
+
+/* Panel Style */
+
+UnityPanelWidget,
+.unity-panel {
+    background-color: #0c0c0c;
+    background-image: none;
+    border-top-color: #080808;
+    border-style: solid;
+    border-width: 1px 0 0 0;
+	box-shadow: inset 0 1px alpha(white, 0.06);
+    color: @theme_fg_color;
+    text-shadow: 0 1px #000;
+}
+
+UnityPanelWidget:backdrop,
+.unity-panel:backdrop {
+    color: @theme_unfocused_bg_color;
+}
+
+.unity-panel.menubar,
+.unity-panel .menubar {
+}
+
+.unity-panel.menuitem,
+.unity-panel .menuitem {
+    border-width: 1px 1px 0 1px;
+    icon-shadow: 0 -1px shade (@theme_bg_color, 0.7);
+}
+
+.unity-panel.menubar:backdrop,
+.unity-panel .menubar *:backdrop {
+    color: @theme_unfocused_fg_color;
+}
+
+.unity-panel.menubar.menuitem:hover,
+.unity-panel.menubar .menuitem *:hover {
+    background-image: none;
+    box-shadow: inset 0 -3px @theme_selected_bg_color;
+      color: white;
+
+}
+
+.unity-panel.menu,
+.unity-panel .menu {
+background-image: none;
+background-color: rgba(9,7,5,0.8);
+}

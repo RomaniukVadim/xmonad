@@ -1,0 +1,50 @@
+#openbox themerc edited with obtheme
+menu.items.active.bg: Solid Flat Border
+menu.items.active.bg.color: #676767
+menu.items.active.bg.border.color: #000000
+menu.items.bg: Solid Flat
+menu.items.bg.color: #000000
+menu.items.disabled.text.color: #4C4C4C
+menu.items.text.color: #B2B2B2
+menu.separator.color: #191919
+menu.title.bg: Solid Flat
+menu.title.bg.color: #525252
+menu.title.text.color: #FFFFFF
+osd.label.bg: Solid Flat
+osd.label.bg.color: #000000
+osd.label.text.color: #FFFFFF
+osd.unhilight.bg: Solid Flat
+osd.unhilight.bg.color: #676767
+window.active.border.color: #0C0C0C
+window.active.button.disabled.bg: Solid Flat
+window.active.button.disabled.bg.color: #161616
+window.active.button.disabled.image.color: #4C4C4C
+window.active.button.hover.image.color: #FFFFFF
+window.active.button.pressed.bg: Solid Flat
+window.active.button.pressed.bg.color: #1e1e1e
+window.active.button.pressed.image.color: #000000
+window.active.button.unpressed.bg: ParentRelative Flat
+window.active.button.unpressed.image.color: #B2B2B2
+window.active.client.color: #000000
+window.active.label.bg: ParentRelative Flat
+window.active.label.text.color: #B2B2B2
+window.client.padding.width: 0
+window.handle.width: 0
+window.inactive.border.color: #161616
+window.inactive.button.disabled.bg: Solid Flat
+window.inactive.button.disabled.bg.color: #191919
+window.inactive.button.disabled.image.color: #4C4C4C
+window.inactive.button.hover.image.color: #FFFFFF
+window.inactive.button.pressed.bg: Solid Flat
+window.inactive.button.pressed.bg.color: #1e1e1e
+window.inactive.button.pressed.image.color: #000000
+window.inactive.button.toggled.hover.image.color: #FFFFFF
+window.inactive.button.toggled.image.color: #4C4C4C
+window.inactive.button.toggled.unpressed.image.color: #000000
+window.inactive.button.unpressed.bg: ParentRelative Flat
+window.inactive.button.unpressed.image.color: #B2B2B2
+window.inactive.client.color: #000000
+window.inactive.label.bg: ParentRelative Flat
+window.inactive.label.text.color: #4C4C4C
+window.inactive.title.bg: Solid Flat
+window.inactive.title.bg.color: #161616
