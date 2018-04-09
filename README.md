@@ -3,6 +3,7 @@ Video: https://youtu.be/rO4bEVMV3Wg
 
 ![1](https://i.imgur.com/uJkgUPR.png)
 ![2](https://i.imgur.com/RYD3B08.png)
+![3](https://i.imgur.com/G30jA3r.png)
 
 ## Contributing
 
